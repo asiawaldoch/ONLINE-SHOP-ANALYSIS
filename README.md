@@ -129,7 +129,98 @@ To improve results during weaker periods, the business could consider promotions
 The sales channel structure is relatively similar across all categories. The online shop generated the largest share of sales in every category, while Google Ads consistently delivered the lowest share.
 Although some small differences can be observed between categories, no category relies heavily on a single channel. This indicates a balanced sales distribution across the available channels.
 
-Since Google Ads generated the lowest share of revenue across all categories, the company should evaluate its performance more closely. However, sales data alone is not enough to determine whether the channel is effective.
-Future analysis should include advertising costs and conversion metrics to assess the profitability of each sales channel and support future marketing decisions.
- 
- 
+<h1 align="center">📌 Final Conclusions & Recommendations</h1>
+
+## Key Findings
+
+✅ The Electronics category generated the highest revenue and appears to be one of the strongest-performing categories.
+
+✅ The Clothing category recorded the highest number of orders, indicating strong customer demand.
+
+✅ Revenue distribution differed significantly across product categories and sales channels, creating opportunities for further optimization.
+
+✅ Google Ads generated the lowest share of revenue among the analyzed sales channels and should be reviewed in more detail.
+
+---
+
+## Business Recommendations
+
+### 📱 Electronics Category
+
+The Electronics category should be investigated further due to its strong revenue performance. However, sales data alone is not sufficient to determine profitability.
+
+The company should start collecting:
+
+- Product costs
+- Inventory data
+- Stock level history
+- Inventory holding costs
+
+This would enable future analysis of:
+
+- Profit margin by product
+- Profit margin by category
+- Profitability of Electronics products
+- Inventory turnover efficiency
+
+---
+
+### 👕 Clothing Category
+
+The Clothing category generated the highest number of orders and represents an important growth area.
+
+Recommended actions:
+
+- Analyze seasonal demand patterns
+- Review marketing performance during weaker months
+- Increase promotional efforts when sales decline
+- Ensure sufficient inventory levels before peak sales periods
+
+---
+
+### 📊 Data Collection Improvements
+
+To support more advanced business analysis, the company should begin collecting additional operational and financial data:
+
+- Product costs
+- Stock levels
+- Inventory turnover metrics
+- Inventory holding costs
+- Marketing expenses
+- Marketplace commissions
+- Advertising costs by channel
+
+---
+
+### 📢 Sales Channel Analysis
+
+Although Google Ads generated the lowest revenue contribution, revenue alone is not enough to evaluate channel performance.
+
+Future analysis should include:
+
+- Advertising costs
+- Conversion rates
+- Customer Acquisition Cost (CAC)
+- Return on Ad Spend (ROAS)
+
+This would make it possible to identify the most profitable sales channels and determine whether some channels should be optimized or discontinued.
+
+---
+
+## Future Analysis Opportunities
+
+Once additional data becomes available, the following analyses could be performed:
+
+- Profit margin analysis
+- Category profitability analysis
+- Customer Acquisition Cost (CAC)
+- Channel profitability analysis
+- Inventory turnover analysis
+- Product profitability ranking
+- Replenishment and inventory planning optimization
+
+---
+
+## Final Note
+
+The current analysis provides valuable insights into sales performance and customer purchasing behavior. However, combining sales data with inventory, cost, and marketing information would provide a much more complete view of business performance and support better strategic decision-making.
