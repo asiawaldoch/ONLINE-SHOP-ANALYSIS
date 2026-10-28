@@ -24,9 +24,7 @@ The goal of this project was to analyze 14,174 online store orders from 2025 usi
   <img src="images/question1.2.png" alt="question1.2">
 </p>
 
- <p align="center">
-  <img src="images/chart1.2.png" alt="chart1.2">
-</p>
+
 Elektronika generated the highest sales revenue in 2025, while Zabawki i prezenty generated the lowest revenue. Uroda also achieved relatively low sales compared to the other categories.
 This shows that sales performance differs significantly across product categories.
 
@@ -40,9 +38,7 @@ Based on the available data, Elektronika appears to be one of the strongest cate
 </p>
 
 
- <p align="center">
-  <img src="images/chart1.1.png" alt="chart1.1">
-</p>
+
 
 
 Odzież received the highest number of orders in 2025 (2926), while Zabawki i prezenty received the lowest number of orders (1978).
@@ -95,9 +91,7 @@ Additionally, collecting more detailed data about purchased products and custome
   <img src="images/AOV.png" alt="AOV">
 </p>
 
-</p><p align="center">
-  <img src="images/chart-aov.png" alt="chart-aov">
-</p>
+
 Elektronika recorded the highest Average Order Value (AOV), while Zabawki i prezenty had the lowest AOV.
 This explains why Elektronika generated the highest revenue despite receiving fewer orders than Odzież. Customers purchasing products from the Elektronika category tend to spend significantly more per order.
 The results indicate that revenue growth can be achieved either through a higher number of orders or through a higher average order value.
